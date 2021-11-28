@@ -1,4 +1,17 @@
+## GROUP NAME
 
+BIOINFORMATIC GROUP-8
+
+## ABOUT GROUP 8
+
+
+
+
+## LIST OF THE MEMBERS OF GROUP 8
+
+|NAME              |PROGRAMMING LANGUAGE|
+|:----------------:|:-------------------:|
+|Fatima
 
 # GROUP 8 MEMBERS PICTURES
 

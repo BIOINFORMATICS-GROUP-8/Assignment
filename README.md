@@ -8,5 +8,10 @@ GROUP 8 MEMBERS
 
 
 Abubakar Abdullahi Dauda
+
+
 Area of interest in bioinformatics kawai Saka masa DNA sequencing
+
+
+
 Slack ID: @ Abubakar A. Dauda

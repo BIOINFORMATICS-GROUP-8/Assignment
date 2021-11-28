@@ -8,8 +8,8 @@ Can T. Introduction to bioinformatics. Methods Mol Biol. 2014;1107:51-71. doi: 1
 
 GROUP 8 MEMBERS
 
-![BIOINFORMATICS1](https://user-images.githubusercontent.com/94997950/143768611-a3e81d6d-c47d-42be-b6c1-04ca781c3b7c.png)
 
+![BIOINFORMATICS1](https://user-images.githubusercontent.com/94997950/143769198-62ef706b-c0ad-4528-a8d2-16dfaae3d76b.png)
 
 
 

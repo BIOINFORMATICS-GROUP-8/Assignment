@@ -16,7 +16,7 @@ BIOINFORMATIC GROUP-8
 |Hauwa Faizu Saleh         | Python              |
                                             
                        
-
+***
 
 
 |NAME              |PROGRAMMING LANGUAGE |	NAME                     |PROGRAMMING LANGUAGE|  
@@ -25,7 +25,7 @@ BIOINFORMATIC GROUP-8
 | Kamal Musa	   | C Programming       | Khalid Abdullahi Umar     | HTML,CSS,JAVASCRIPT |
 
 
-
+***
 
 
 |NAME              |PROGRAMMING LANGUAGE |	NAME                     |PROGRAMMING LANGUAGE|  

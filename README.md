@@ -46,19 +46,19 @@ From the Student of the Department of: Human Anatomy
 
 
 
-# GROUP 8 MEMBERS PICTURES
+## GROUP 8 MEMBERS PICTURES
 
 
 ![bio](https://user-images.githubusercontent.com/94997950/143965090-2a9b3468-8e3f-4b54-8fad-7db38d2efa2a.png)
 
 
 ***
-# GROUP 8 HELP LINE
+## GROUP 8 HELP LINE
 
 abubakarabdullahidauda@gmail.com
 ***
 
-# GROUP 8 ACKNOWLEDGEMENT
+## GROUP 8 ACKNOWLEDGEMENT
 
 Our deepest gratitude goes to Almythy God who has provided all that was needed to complete this assignment
 

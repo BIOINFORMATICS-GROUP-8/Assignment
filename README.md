@@ -47,7 +47,7 @@ BIOINFORMATIC GROUP-8
 # GROUP 8 MEMBERS PICTURES
 
 
-![BIOINFORMATICS1](https://user-images.githubusercontent.com/94997950/143769198-62ef706b-c0ad-4528-a8d2-16dfaae3d76b.png)
+![bio](https://user-images.githubusercontent.com/94997950/143965090-2a9b3468-8e3f-4b54-8fad-7db38d2efa2a.png)
 
 >Keep SMiling and Work Harder
 

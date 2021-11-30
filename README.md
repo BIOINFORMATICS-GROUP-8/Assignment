@@ -24,7 +24,7 @@ BIOINFORMATIC GROUP-8
 |NAME              |PROGRAMMING LANGUAGE |	NAME                     |PROGRAMMING LANGUAGE|  
 |:----------------:|:-------------------:|:-------------------------:|:-------------------:|
 | Fatima Sirajo    | C Programming       | Muhammad Salisu           | HTML,CSS,JAVASCRIPT |
-| Kamal Musa	   | C Programming       | Khalid Abdullahi Umar     | HTML,CSS,JAVASCRIPT |
+| Kamal Musa	     | C Programming       | Khalid Abdullahi Umar     | HTML,CSS,JAVASCRIPT |
 
 
 ***
@@ -32,8 +32,15 @@ BIOINFORMATIC GROUP-8
 
 |NAME              |PROGRAMMING LANGUAGE |	NAME                     |PROGRAMMING LANGUAGE|  
 |:----------------:|:-------------------:|:-------------------------:|:-------------------:|
-| Yusuf Mukhtar    | Javascript          | Muhammad Isma'il          | C++                 |
-| Haruna S. Joel   | Javascript          | Benjamin Bulus Kutaru	   | C++                 |
+| Yusuf Mukhtar    | Java                | Muhammad Isma'il          | C++                 |
+| Haruna S. Joel   | Java                | Benjamin Bulus Kutaru	   | C++                 |
+
+***
+
+|NAME                        |PROGRAMMING LANGUAGE |	NAME                     |PROGRAMMING LANGUAGE|  
+|:--------------------------:|:-------------------:|:-------------------------:|:-------------------:|
+| Aishatu Abdulhhameed Yaya  | Pascal              | Muntaka Abdulrahman       | Ruby                |
+| Nura D. Adamu              | Pascal              | Abdulhamid Magaji    	   | Ruby                |
 
 
 

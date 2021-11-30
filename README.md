@@ -5,7 +5,9 @@ BIOINFORMATIC GROUP-8
 
 ---
 ## ABOUT GROUP 8
+This Group 8 for the Bioinformation Assigment taken at Bauchi State University Gadau
 
+From the Student of the Department of: Human Anatomy
 
 
 
@@ -49,7 +51,7 @@ BIOINFORMATIC GROUP-8
 
 ![bio](https://user-images.githubusercontent.com/94997950/143965090-2a9b3468-8e3f-4b54-8fad-7db38d2efa2a.png)
 
->Keep SMiling and Work Harder
+>Keep Smiling and Work Harder
 
 
 

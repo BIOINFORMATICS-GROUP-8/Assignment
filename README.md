@@ -1,13 +1,13 @@
 ## GROUP NAME
 
-BIOINFORMATIC GROUP-8
+BIOINFORMATICS GROUP-8
 
 
 ---
 ## ABOUT GROUP 8
-This Group 8 for the Bioinformation Assignment taken at Bauchi State University Gadau
+This is Group 8 for the Bioinformatics Assignment taken at Bauchi State University Gadau
 
-From the Student of the Department of Human Anatomy
+From the Student of the Department of Human Anatomy, it's a collaboration work consisting of 15 members which are lead by Abubakar Abdullahi Dauda
 
 
 
@@ -53,9 +53,12 @@ From the Student of the Department of Human Anatomy
 
 
 ***
+## WORK FLOW
+
+
 ## GROUP 8 HELP LINE
 
-abubakarabdullahidauda@gmail.com
+abubakarabdullahidauda4757@gmail.com
 ***
 
 ## GROUP 8 ACKNOWLEDGEMENT

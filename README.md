@@ -5,9 +5,9 @@ BIOINFORMATIC GROUP-8
 
 ---
 ## ABOUT GROUP 8
-This Group 8 for the Bioinformation Assigment taken at Bauchi State University Gadau
+This Group 8 for the Bioinformation Assignment taken at Bauchi State University Gadau
 
-From the Student of the Department of: Human Anatomy
+From the Student of the Department of Human Anatomy
 
 
 

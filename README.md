@@ -54,7 +54,7 @@ From the Student of the Department of Human Anatomy, it's a collaboration work c
 
 ***
 ## WORK FLOW
-
+![IMG-20211130-WA0021](https://user-images.githubusercontent.com/94997950/144140363-7eb3442f-12d4-4352-a17c-a0e3bdc4a251.jpg)
 
 ## GROUP 8 HELP LINE
 

@@ -8,6 +8,11 @@ BIOINFORMATICS GROUP-8
 This is Group 8 for the Bioinformatics Assignment taken at Bauchi State University Gadau
 
 From the Student of the Department of Human Anatomy, it's a collaboration work consisting of 15 members which are lead by Abubakar Abdullahi Dauda
+ABOUT THE BIOINFORMATICS
+Bioinformatics is a conceptualizing biology in terms of macromolecules and then applying techniques discipline such as applied maths, computer science to organize the information associated with these molecules In a large-scale. Bioinformatics has many different field and areas which includes
+1. Metagenomics
+2. Epigenomocs
+3. Transcriptomics 
 
 
 
